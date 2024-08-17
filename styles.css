@@ -7,7 +7,7 @@ html, body {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #1a1a2e;
+    background-color: #2b2d42;
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -31,7 +31,7 @@ body {
 }
 
 .container {
-    background-color: #16213e;
+    background-color: #8d99ae;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 15px rgba(240, 240, 240, 0.2);
@@ -43,24 +43,24 @@ body {
 
 h1 {
     margin-bottom: 20px;
-    color: #f6c90e;
+    color: #edf2f4;
 }
 
 label {
     display: block;
     margin-bottom: 10px;
     font-weight: bold;
-    color: #e94560;
+    color: #ef233c;
 }
 
 select {
     padding: 10px;
     width: 100%;
     margin-bottom: 20px;
-    border: 1px solid #e8e8e8;
+    border: 1px solid #edf2f4;
     border-radius: 4px;
-    background-color: #0f3460;
-    color: #f6c90e;
+    background-color: #d90429;
+    color: #edf2f4;
     text-align-last: center;
     font-size: large;
 }
@@ -73,7 +73,7 @@ select option {
 .button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #0f3460;
+    background-color: #d90429;
     color: white;
     border: none;
     border-radius: 4px;
@@ -85,7 +85,7 @@ select option {
 }
 
 .button:hover {
-    background-color: #53354a;
+    background-color: #ef233c;
 }
 
 .progress-container {
@@ -97,7 +97,7 @@ select option {
 .progress-bar {
     width: 0%;
     height: 20px;
-    background-color: #e94560;
+    background-color: #8d99ae;
     border-radius: 4px;
     transition: width 0.3s;
 }
@@ -105,7 +105,7 @@ select option {
 .progress-text {
     margin-left: 10px;
     font-weight: bold;
-    color: #e94560;
+    color: #ef233c;
 }
 
 .key-container {
@@ -116,7 +116,7 @@ select option {
 }
 
 .key-container h2 {
-    color: #e94560;
+    color: #ef233c;
 }
 
 .keys-list {
@@ -130,9 +130,9 @@ select option {
     display: flex;
     align-items: center;
     margin-bottom: 10px;
-    background-color: #1a1a2e;
+    background-color: #2b2d42;
     padding: 10px;
-    border: 1px solid #e8e8e8;
+    border: 1px solid #edf2f4;
     border-radius: 4px;
     word-wrap: break-word;
 }
@@ -141,7 +141,7 @@ select option {
     flex-grow: 1;
     border: none;
     background: transparent;
-    color: #f6c90e;
+    color: #edf2f4;
     font-size: 16px;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -152,7 +152,7 @@ select option {
     text-align: center;
     width: 40px;
     padding: 10px 10px;
-    background-color: #0f3460;
+    background-color: #d90429;
     color: white;
     border: none;
     border-radius: 4px;
@@ -163,7 +163,7 @@ select option {
 
 .key-item button {
     margin-left: 10px;
-    background-color: #0f3460;
+    background-color: #d90429;
     border: none;
     padding: 10px 10px;
     border-radius: 4px;
@@ -174,7 +174,7 @@ select option {
 }
 
 .key-item button:hover {
-    background-color: #53354a;
+    background-color: #ef233c;
 }
 
 .hidden {
@@ -183,7 +183,7 @@ select option {
 
 .copy-status {
     margin-top: 10px;
-    color: #e94560;
+    color: #ef233c;
     font-weight: bold;
 }
 
@@ -195,9 +195,9 @@ select option {
 }
 
 #languageSelect {
-    background-color: #0f3460;
-    color: #f6c90e;
-    border: 1px solid #e8e8e8;
+    background-color: #d90429;
+    color: #edf2f4;
+    border: 1px solid #edf2f4;
     border-radius: 4px;
     padding: 5px;
     font-size: large;
@@ -205,7 +205,7 @@ select option {
 
 .footer-button {
     margin-top: 20px;
-    background-color: #0f3460;
+    background-color: #d90429;
     color: white;
     border: none;
     border-radius: 4px;
