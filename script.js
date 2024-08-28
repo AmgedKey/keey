@@ -3,8 +3,8 @@ const gamePromoConfigs = {
     CafeDash: {
         appToken: 'bc0971b8-04df-4e72-8a3e-ec4dc663cd11',
         promoId: 'bc0971b8-04df-4e72-8a3e-ec4dc663cd11',
-        eventsDelay: 23000,
-        attemptsNumber: 16
+        eventsDelay: 20000,
+        attemptsNumber: 10
     },
     ChainCube2048: {
         appToken: 'd1690a07-3780-4068-810f-9b5bbf2931b2',
