@@ -39,14 +39,14 @@ const gamePromoConfigs = {
     TileTrio: {
         appToken: 'e68b39d2-4880-4a31-b3aa-0393e7df10c7',
         promoId: 'e68b39d2-4880-4a31-b3aa-0393e7df10c7',
-        eventsDelay: 23000,
-        attemptsNumber: 16
+        eventsDelay: 40000,
+        attemptsNumber: 22
     },
     FluffCrusade: {
         appToken: '112887b0-a8af-4eb2-ac63-d82df78283d9',
         promoId: '112887b0-a8af-4eb2-ac63-d82df78283d9',
-        eventsDelay: 40000,
-        attemptsNumber: 23
+        eventsDelay: 23000,
+        attemptsNumber: 18
     }, 
     Zoopolis: {
         appToken: 'b2436c89-e0aa-4aed-8046-9b0515e1c46b',
