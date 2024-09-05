@@ -53,6 +53,12 @@ const gamePromoConfigs = {
         promoId: 'b2436c89-e0aa-4aed-8046-9b0515e1c46b',
         eventsDelay: 21000,
         attemptsNumber: 23
+    }, 
+    StoneAge: {
+        appToken: '04ebd6de-69b7-43d1-9c4b-04a6ca3305af',
+        promoId: '04ebd6de-69b7-43d1-9c4b-04a6ca3305af',
+        eventsDelay: 21000,
+        attemptsNumber: 23
     }
 };
 
