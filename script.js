@@ -78,6 +78,12 @@ const gamePromoConfigs = {
         promoId: 'd2378baf-d617-417a-9d99-d685824335f0',
         eventsDelay: 21000,
         attemptsNumber: 23
+    }, 
+    CountMasters: {
+        appToken: '4bdc17da-2601-449b-948e-f8c7bd376553',
+        promoId: '4bdc17da-2601-449b-948e-f8c7bd376553',
+        eventsDelay: 21000,
+        attemptsNumber: 23
     }
 };
 
