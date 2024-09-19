@@ -84,6 +84,24 @@ const gamePromoConfigs = {
         promoId: '4bdc17da-2601-449b-948e-f8c7bd376553',
         eventsDelay: 21000,
         attemptsNumber: 23
+    }, 
+    InfectedFrontier: {
+        appToken: 'eb518c4b-e448-4065-9d33-06f3039f0fcb',
+        promoId: 'eb518c4b-e448-4065-9d33-06f3039f0fcb',
+        eventsDelay: 21000,
+        attemptsNumber: 23
+    }, 
+    AmongWaterr: {
+        appToken: 'daab8f83-8ea2-4ad0-8dd5-d33363129640',
+        promoId: 'daab8f83-8ea2-4ad0-8dd5-d33363129640',
+        eventsDelay: 21000,
+        attemptsNumber: 23
+    }, 
+    FactoryWorld: {
+        appToken: 'd02fc404-8985-4305-87d8-32bd4e66bb16',
+        promoId: 'd02fc404-8985-4305-87d8-32bd4e66bb16',
+        eventsDelay: 21000,
+        attemptsNumber: 23
     }
 };
 
